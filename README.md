@@ -2,7 +2,7 @@
 
 The official implementation for the **TCSVT 2023** paper [[_Towards Unified Token Learning for Vision-Language Tracking_](https://arxiv.org/abs/2308.14103)].
 
-[[Models](https://drive.google.com/drive/folders/1TJdQB7WRfePG0-FR2yH-ldO684Ir5LSl?usp=sharing)]
+[[Models](https://drive.google.com/file/d/1kM8qxwJHJg4HuZNPPTMFZZTGEdtASVAf/view?usp=sharing)]
 [[Raw Results](https://drive.google.com/drive/folders/14kCYrdcBebtORg4Pqw73goWUYDkJiSwL?usp=sharing)]
 
 
@@ -81,7 +81,7 @@ If you want to use [wandb](https://github.com/wandb/client) to record detailed t
 
 
 ## Evaluation
-Download the model weights from [Google Drive](https://drive.google.com/drive/folders/1c0n1CbexyLTJWnrqs_vB6WLiyG3yXWke?usp=sharing) 
+Download the model weights from [Google Drive](https://drive.google.com/file/d/1kM8qxwJHJg4HuZNPPTMFZZTGEdtASVAf/view?usp=sharing) 
 
 Put the downloaded weights on `$PROJECT_ROOT$/output/checkpoints/train/mmtrack/baseline`
 
