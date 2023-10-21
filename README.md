@@ -42,6 +42,9 @@ lib/test/evaluation/local.py  # paths about testing
 ```
 
 ## Data Preparation
+
+1. Download the [preprocessed json file](https://drive.google.com/drive/folders/1gcdNfKn91eOICqB1-DHM-9Ji0PZjlFYj?usp=sharing) of reforco dataset. If the former link fails, you can download it [here](https://github.com/sean-zhuh/SeqTR).
+
 Put the tracking datasets in ./data. It should look like:
    ```
    ${PROJECT_ROOT}
@@ -112,7 +115,7 @@ python tracking/test.py --tracker_name mmtrack --tracker_param baseline --datase
 
 
 ## Acknowledgments
-* Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [Stable-Pix2Seq](https://github.com/gaopengcuhk/Stable-Pix2Seq) library, which helps us to quickly implement our ideas.
+* Thanks for the [OSTrack](https://github.com/botaoye/OSTrack), [Stable-Pix2Seq](https://github.com/gaopengcuhk/Stable-Pix2Seq) and [SeqTR](https://github.com/sean-zhuh/SeqTR) library, which helps us to quickly implement our ideas.
 
 
 ## Citation
