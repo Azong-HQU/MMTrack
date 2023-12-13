@@ -45,8 +45,8 @@ lib/test/evaluation/local.py  # paths about testing
 
 1. Download the [preprocessed json file](https://drive.google.com/drive/folders/1gcdNfKn91eOICqB1-DHM-9Ji0PZjlFYj?usp=sharing) of reforco dataset. If the former link fails, you can download it [here](https://github.com/sean-zhuh/SeqTR).
 
-2. Download the refcoco-train2014 images from [Joseph Redmon's mscoco mirror](https://pjreddie.com/projects/coco-mirror/).
-3. Download the OTB_Lang images from [Link](https://isis-data.science.uva.nl/zhenyang/cvpr17-langtracker/data/OTB_sentences.zip)
+2. Download the refcoco-train2014 dataset from [Joseph Redmon's mscoco mirror](https://pjreddie.com/projects/coco-mirror/).
+3. Download the OTB_Lang dataset from [Link](https://isis-data.science.uva.nl/zhenyang/cvpr17-langtracker/data/OTB_sentences.zip)
 
 
 Put the tracking datasets in ./data. It should look like:
